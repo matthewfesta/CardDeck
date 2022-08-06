@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú„÷¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú„÷¥
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ú„÷¥
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Ú„÷¥
+œ
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(žºÿáøÿÿÿÿ
+A
+java:S5960"+Remove this assertion from production code.(®â­º
